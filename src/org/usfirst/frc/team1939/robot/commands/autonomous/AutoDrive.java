@@ -1,6 +1,6 @@
 package org.usfirst.frc.team1939.robot.commands.autonomous;
 
-import com.usfirst.frc.team1939.robot.util.Wait;
+import org.usfirst.frc.team1939.robot.util.Wait;
 
 import edu.wpi.first.wpilibj.command.CommandGroup;
 

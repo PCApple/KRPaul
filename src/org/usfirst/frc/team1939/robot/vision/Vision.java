@@ -98,6 +98,9 @@ public class Vision {
 	 * Return the number of targets it detects AKA the number of contours
 	 * @return contours
 	 */
+	public static boolean isInitialized(){
+		return intialized;
+	}
 	public static double getContours(){
 		synchronized (imgLock){
 			return contours;

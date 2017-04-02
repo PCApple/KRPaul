@@ -1,4 +1,4 @@
-package com.usfirst.frc.team1939.robot.util;
+package org.usfirst.frc.team1939.robot.util;
 
 import java.util.function.DoubleSupplier;
 

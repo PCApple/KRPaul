@@ -6,7 +6,7 @@ import org.usfirst.frc.team1939.robot.subsystems.Drivetrain;
 import org.usfirst.frc.team1939.robot.subsystems.RingLight;
 import org.usfirst.frc.team1939.robot.vision.Vision;
 
-import com.usfirst.frc.team1939.robot.util.DoNothing;
+import org.usfirst.frc.team1939.robot.util.DoNothing;
 
 import edu.wpi.first.wpilibj.IterativeRobot;
 import edu.wpi.first.wpilibj.command.Command;
